@@ -330,6 +330,7 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/_Scripts/ConstantMover.cs"
 "Assets/_Scripts/ConstantRotator.cs"
+"Assets/_Scripts/GameManager.cs"
 "Assets/_Scripts/MainMenu Extras/FillButton.cs"
 "Assets/_Scripts/MainMenu Extras/Jitter.cs"
 "Assets/_Scripts/MainMenu Extras/RainbowButton.cs"

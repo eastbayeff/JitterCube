@@ -58,16 +58,17 @@
   <ItemGroup>
     <Compile Include="Assets\_Scripts\PlayerController.cs" />
     <Compile Include="Assets\_Scripts\ConstantMover.cs" />
-    <Compile Include="Assets\_Scripts\NextLevelOnTrigger.cs" />
-    <Compile Include="Assets\_Scripts\ResetOnCollision.cs" />
-    <Compile Include="Assets\_Scripts\ConstantRotator.cs" />
-    <Compile Include="Assets\_Scripts\MainMenu Extras\Jitter.cs" />
-    <Compile Include="Assets\_Scripts\MenuManager.cs" />
-    <Compile Include="Assets\_Scripts\MainMenu Extras\RainbowButton.cs" />
-    <Compile Include="Assets\_Scripts\MainMenu Extras\FillButton.cs" />
-    <Compile Include="Assets\_Scripts\MainMenu Extras\RandomButtonPosition.cs" />
     <Compile Include="Assets\_Scripts\MusicManager.cs" />
+    <Compile Include="Assets\_Scripts\ConstantRotator.cs" />
+    <Compile Include="Assets\_Scripts\MainMenu Extras\FillButton.cs" />
+    <Compile Include="Assets\_Scripts\MenuManager.cs" />
+    <Compile Include="Assets\_Scripts\NextLevelOnTrigger.cs" />
+    <Compile Include="Assets\_Scripts\MainMenu Extras\Jitter.cs" />
+    <Compile Include="Assets\_Scripts\ResetOnCollision.cs" />
+    <Compile Include="Assets\_Scripts\MainMenu Extras\RainbowButton.cs" />
     <Compile Include="Assets\_Scripts\MainMenu Extras\RotateTransform.cs" />
+    <Compile Include="Assets\_Scripts\MainMenu Extras\RandomButtonPosition.cs" />
+    <Compile Include="Assets\_Scripts\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
